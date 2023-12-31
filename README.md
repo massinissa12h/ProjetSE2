@@ -1,4 +1,8 @@
 # projet - Reponses au questions.
+## Les participans de projet:
+```
+ce projet est réalisé grâce aux efforts de Messaoudi Massinissa du groupe 2 et Kherfi Lyes du groupe 1.
+```
 ## Q1 : Structures de Données
 ```
 Matrices B, C, et A : Utilisez des tableaux bidimensionnels pour représenter les matrices et stockées les données dans B et C et en sauvegarde le resultat dans le tableau A.
